@@ -1,7 +1,5 @@
 require_relative "lib/colorizr"
 
-String.create_colors
-
 # String.colors returns an Array of all the color options
 puts String.colors
 

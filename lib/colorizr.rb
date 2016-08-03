@@ -21,3 +21,5 @@ class String
     end
   end
 end
+
+String.create_colors
