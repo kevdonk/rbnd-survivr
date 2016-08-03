@@ -1,0 +1,17 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+
+I used define_method to iterate through a list of colors and create methods based
+on that list, as opposed to defining each individually.
+
+How long did you spend working on this project?
+
+I'm not sure, since it was spread out over such a long time.
+
+What was the most rewarding challenge you conquered?
+
+Figuring out the actual requirements of the project between the submission instructions
+and the rubric was the most challenging and rewarding part of the experience.
+
+Where do you still have room to grow?
+
+Based on my misunderstanding initially, I have room to grow in the reading of instructions.
